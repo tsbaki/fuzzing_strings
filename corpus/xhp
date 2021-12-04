@@ -1,0 +1,1 @@
+#	Strings which contain two-byte letters: can cause issues with naïve UTF-16 capitalizers which think that 16 bits == 1 character

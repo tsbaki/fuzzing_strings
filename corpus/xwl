@@ -1,0 +1,1 @@
+#	Strings which can cause a SQL injection if inputs are not sanitized

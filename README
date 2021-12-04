@@ -1,0 +1,5 @@
+A fuzzer to fuzz `strings` program from `binutils`.
+
+Takes a bunch of bad strings and tests them against `strings`.
+
+Run `make` to build.

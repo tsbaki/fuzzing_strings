@@ -1,0 +1,1 @@
+#	Strings which attempt to invoke a benign script injection; shows vulnerability to XSS
